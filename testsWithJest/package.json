@@ -1,0 +1,20 @@
+{
+  "name": "testswithjest",
+  "version": "1.0.0",
+  "description": "testes utilizando jest",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "random-number": "0.0.9"
+  }
+}
